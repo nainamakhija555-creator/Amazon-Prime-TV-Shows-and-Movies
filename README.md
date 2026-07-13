@@ -1,1 +1,2 @@
 # Amazon-Prime-TV-Shows-and-Movies
+This project involves analyzing the provided datasets using data cleaning, exploratory data analysis (EDA), and visualization techniques. Different chart types, such as pie charts, histograms, bar charts, and line charts, are used to present insights effectively. The project also includes handling missing values, null values, and outliers to improve data quality and derive meaningful insights from the analysis.
