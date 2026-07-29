@@ -7,7 +7,7 @@ The goal of this project is to demonstrate a complete data analysis workflow—f
 
 ---
 
-## Business Problem
+##  Business Problem
 
 Amazon Prime hosts thousands of movies and TV shows from different countries and genres. As the content library grows, understanding content trends becomes essential for making informed business decisions related to content acquisition, audience engagement, and platform growth.
 
