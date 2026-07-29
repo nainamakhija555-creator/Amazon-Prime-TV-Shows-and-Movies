@@ -1,4 +1,4 @@
-Case Study – Amazon Prime TV Shows & Movies Analysis
+## Case Study – Amazon Prime TV Shows & Movies Analysis
 
 ## Project Overview
 
@@ -158,7 +158,7 @@ Based on the analysis, the following recommendations can help improve content st
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end data analysis workflow using Python, from cleaning raw data to generating actionable business insights through visualization. The analysis highlights content trends, audience preferences, and growth patterns within Amazon Prime's catalogue, showcasing the practical application of data analytics for business decision-making.
 
