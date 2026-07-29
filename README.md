@@ -145,16 +145,13 @@ Based on the analysis, the following recommendations can help improve content st
 
 ## Skills Demonstrated
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Business Analysis
-* Python Programming
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Data Storytelling
+- Python for Data Analysis
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Analysis
+- Data Storytelling
+- Pandas, NumPy, Matplotlib & Seaborn
 
 ---
 
