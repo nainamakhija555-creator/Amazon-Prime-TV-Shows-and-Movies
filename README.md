@@ -1,4 +1,4 @@
-# 📖 Case Study – Amazon Prime TV Shows & Movies Analysis
+Case Study – Amazon Prime TV Shows & Movies Analysis
 
 ## Project Overview
 
@@ -21,7 +21,7 @@ This analysis helps answer questions such as:
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 * Perform data cleaning and preprocessing.
 * Handle missing values and duplicate records.
@@ -34,7 +34,7 @@ This analysis helps answer questions such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * Python
 * Pandas
@@ -45,7 +45,7 @@ This analysis helps answer questions such as:
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The dataset contains metadata for Amazon Prime titles, including:
 
@@ -64,7 +64,7 @@ The dataset contains metadata for Amazon Prime titles, including:
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+##  Data Cleaning & Preprocessing
 
 The following preprocessing steps were performed before analysis:
 
@@ -77,61 +77,51 @@ The following preprocessing steps were performed before analysis:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Several visualizations were created to understand the dataset and identify trends.
 
-### 🎬 Movies vs TV Shows
+###  Movies vs TV Shows
 
 **Analysis:** Compared the distribution of Movies and TV Shows available on Amazon Prime.
 
 **Business Insight:** Movies account for a larger share of the platform's catalogue, indicating a stronger focus on film content.
 
-*(Insert your chart screenshot here)*
-
 ---
 
-### 🌍 Top Content Producing Countries
+### Top Content Producing Countries
 
 **Analysis:** Identified countries contributing the highest number of titles.
 
 **Business Insight:** The United States is the leading contributor, followed by India and other countries, highlighting Amazon Prime's global content strategy.
 
-*(Insert your chart screenshot here)*
-
 ---
 
-### 🎭 Genre Analysis
+###  Genre Analysis
 
 **Analysis:** Explored the most common genres available on the platform.
 
 **Business Insight:** Drama, Comedy, and Documentary are among the most represented genres, reflecting audience demand for diverse entertainment.
 
-*(Insert your chart screenshot here)*
-
 ---
 
-### ⭐ Rating Distribution
+###  Rating Distribution
 
 **Analysis:** Examined content ratings to understand the target audience.
 
 **Business Insight:** The platform offers content across multiple age groups, with a significant proportion aimed at mature audiences.
 
-*(Insert your chart screenshot here)*
-
 ---
 
-### 📅 Release Year Trend
+### Release Year Trend
 
 **Analysis:** Analyzed content released over time.
 
 **Business Insight:** The number of titles increased significantly after 2015, demonstrating Amazon Prime's rapid expansion of its content library.
 
-*(Insert your chart screenshot here)*
-
 ---
 
-## 💡 Key Findings
+##  Key Findings
 
 * Movies significantly outnumber TV Shows.
 * The United States contributes the highest number of titles.
@@ -141,7 +131,7 @@ Several visualizations were created to understand the dataset and identify trend
 
 ---
 
-## 📈 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, the following recommendations can help improve content strategy:
 
@@ -153,7 +143,7 @@ Based on the analysis, the following recommendations can help improve content st
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
@@ -172,16 +162,4 @@ Based on the analysis, the following recommendations can help improve content st
 
 This project demonstrates an end-to-end data analysis workflow using Python, from cleaning raw data to generating actionable business insights through visualization. The analysis highlights content trends, audience preferences, and growth patterns within Amazon Prime's catalogue, showcasing the practical application of data analytics for business decision-making.
 
----
-
-## 📷 Project Screenshots
-
-> Add screenshots of your visualizations below this section.
-
-* Movies vs TV Shows
-* Top Producing Countries
-* Genre Distribution
-* Content Ratings
-* Release Year Trend
-* Correlation Heatmap (if applicable)
 
